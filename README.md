@@ -1,12 +1,12 @@
 # Haloha Semuanya! 
 
-Perkenalkan nama saya **Fahrizal Amri Bachtiar**.
-
-Saya mahasiswa jurusan **Teknik Informatika** di [Universitas Negeri Surabaya](https://www.unesa.ac.id/).
-
-Saya Pernah berpartisipasi dalam kegiatan wirausaha semasa kuliah dan menjadi ketua lolos pendanaan tingkat universitas serta berhasil membuat Website E-commerce berbasis WordPress [Xgate Gaming Store](https://xgategaming.com/) untuk program kewirausahaan tersebut.
-
-Jika kamu tertarik untuk berkenalan denganku, silahkan ikuti akun [Linkedin](https://www.linkedin.com/in/fahrizal-amri-bachtiar-955647242/) ku ya.
+- ???? Hi, I'm **Fahrizal Amri Bachtiar** or shortly called **Fahrizal**
+- ???? I'm interested in Fullstack Web Development and Wordpress Development
+- ???? I'm currently learning Fullstack Web Development Learning Path at at Dicoding Academy
+- ???? How to reach me on 
+<a href="https://www.instagram.com/iiizal/" target="_blank">Instagram</a> and 
+<a href="https://www.linkedin.com/in/fahrizal-amri-bachtiar-955647242/" target="_blank">LinkedIn</a>. 
+- I have participated in entrepreneurship activities during college and became Chair of passing university-level funding and managed to create a WordPress-based E-commerce Website [Xgate Gaming Store](https://xgategaming.com/) for entrepreneurship programs.
 
 <p align="left">
 <a href="https://github.com/iiizal15">
